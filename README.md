@@ -1,5 +1,5 @@
 # KDE-Launcher-Icon-Changer
-A basic bash script that changes the icon of the KDE Kickoff application launcher with a selected folder of icons.
+A basic bash script that changes the icon of the KDE Kickoff application launcher with a selected folder of icons. Icon change effected every restart.
 
 ![gif](gif.gif)
 
